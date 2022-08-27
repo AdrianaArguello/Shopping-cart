@@ -1,0 +1,3 @@
+export async function makeLoginData() {
+    return 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkRldmVsb3BlciIsImlhdCI6MTUxNjIzOTAyMn0.7HIr55N1_d1eOgMjqCH7bHbudmgA-mU0TEnOXT7PNQQ';
+}

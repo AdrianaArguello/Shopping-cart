@@ -1,0 +1,125 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://www.giztab.com/wp-content/uploads/2020/03/iphone-9-03.jpg", "https://img.unocero.com/2020/02/iphone-9-economico.jpg"]
+        },
+        {
+            "id": 2,
+            "title": "iPhone 8",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 450,
+            "stock": 100,
+            "brand": "Apple",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://miamitechnologyusa.com/wp-content/uploads/2021/05/iPhone8Plus_color_selection_inline.jpg.large_.jpg", "https://i.ebayimg.com/images/g/kZwAAOSw9yldDJK5/s-l400.jpg"]
+        },
+        {
+            "id": 3,
+            "title": "iPhone 10",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 600,
+            "stock": 120,
+            "brand": "Apple",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://media.wired.com/photos/5bcf71b1dc9f582b9e25a8d8/1:1/w_1200,h_1200,c_limit/iphone2_featured.jpg", "https://i.blogs.es/2923c4/iphone-13/450_1000.jpeg"]
+        },
+        {
+            "id": 4,
+            "title": "Xiaomi redmi 9",
+            "description": "Bueno, bonito y barato",
+            "price": 200,
+            "stock": 15,
+            "brand": "Xiaomi",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://labatata.com.ve/1993-large_default/redmi-9-3gb-ram-32gb-rom-carbon-grey.jpg", "https://labatata.com.ve/1876-large_default/redmi-9-4gb-ram-64gb-rom-sunset-purple-.jpg"]
+        },
+        {
+            "id": 5,
+            "title": "xiaomi redmi note 10",
+            "description": "Bueno, bonito y barato",
+            "price": 350,
+            "stock": 25,
+            "brand": "Xiaomi",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["data:image/jpeg;base64,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", "https://phonesdata.com/files/models/Xiaomi-Redmi-Note-10-426.jpg"]
+        },
+        {
+            "id": 6,
+            "title": "xiaomi redmi note 11",
+            "description": "Bueno, bonito y barato",
+            "price": 600,
+            "stock": 120,
+            "brand": "Xiaomi",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://http2.mlstatic.com/D_NQ_NP_832120-MLV49909831823_052022-V.jpg", "https://as01.epimg.net/meristation/imagenes/2022/01/26/betech/1643206262_858198_1643207199_noticia_normal.jpg"]
+        },
+        {
+            "id": 7,
+            "title": "Petit",
+            "description": "Chiquito pero peligroso",
+            "price": 1000,
+            "stock": 50,
+            "brand": "Petit",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://cdn.andro4all.com/andro4all/2020/09/Movil-Zanco-Tiny-2.jpg", "https://media.cdn.puntobiz.com.ar/102021/1635186894535.webp?cw=984&ch=553&extw=jpg"]
+        },
+        {
+            "id": 8,
+            "title": "Polyvision",
+            "description": "el transparente del barrio",
+            "price": 5000,
+            "stock": 12,
+            "brand": "Polyvision Phone",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://img.blogs.es/anexom/wp-content/uploads/2016/07/moviltransparente_d62a56b777b7d1355ca76c3db.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75FfEDG08a1Fz8Z3AKBTeVo4CIStdSjRB-Sa-HAzD6HbLVuQfljLT60jalTcDSrAMrSA&usqp=CAU"]
+        },
+        {
+            "id": 9,
+            "title": "Polyvision",
+            "description": "el transparente del barrio",
+            "price": 5000,
+            "stock": 12,
+            "brand": "Polyvision Phone",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://img.blogs.es/anexom/wp-content/uploads/2016/07/moviltransparente_d62a56b777b7d1355ca76c3db.jpg", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75FfEDG08a1Fz8Z3AKBTeVo4CIStdSjRB-Sa-HAzD6HbLVuQfljLT60jalTcDSrAMrSA&usqp=CAU"]
+        },
+        {
+            "id": 10,
+            "title": "Samsung Galaxi S10",
+            "description": "mejorando en varios aspectos al Galaxy S9",
+            "price": 500,
+            "stock": 12,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://m.media-amazon.com/images/I/61YVqHdFRxL._AC_SY355_.jpg", "https://bitwares.net/wp-content/uploads/2020/06/618FTkMHQ3L._AC_SL1500_-1.jpg"]
+        },
+        {
+            "id": 11,
+            "title": "Samsung Galaxi S11",
+            "description": "mejorando en varios aspectos al Galaxy S11",
+            "price": 100,
+            "stock": 12,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "quantity": 1,
+            "images": ["https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/s11_render_phonearena_6.jpg", "https://d500.epimg.net/cincodias/imagenes/2019/11/29/smartphones/1575031024_654952_1575031136_noticia_normal.jpg"]
+        }
+    ]
+}
